@@ -1,0 +1,28 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.29999999999999999,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 812,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "cachedDeviceWidth" : 375,
+  "deviceType" : "apple-iphone-x-space-gray",
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+
+  },
+  "projectId" : "E4E1E074-C05E-499E-AD11-DC7DDFA91487",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : false,
+  "foldedCodeRanges" : [
+    "{0, 113}",
+    "{114, 390}",
+    "{505, 83}",
+    "{589, 583}",
+    "{1173, 227}",
+    "{1401, 358}",
+    "{1761, 928}"
+  ],
+  "deviceScale" : "fit"
+}
